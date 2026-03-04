@@ -193,6 +193,8 @@ function App() {
 
             <a
               href="zaidsayeed17@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer
               className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl transition"
             >
               📧 Email Me
