@@ -28,7 +28,7 @@ function App() {
           <span className="text-blue-500 drop-shadow-[0_0_15px_#3b82f6]">
             <Typewriter
               words={[
-                "AI & Data Science Undergraduate",
+                "AI & Data Science Student",
                 "Machine Learning Enthusiast",
                 "Aspiring Data Analyst",
               ]}
@@ -203,7 +203,7 @@ function App() {
               href="zaidsayeed17@gmail.com"
               className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl transition"
             >
-              📧 Email Me
+             ✉ zaidsayeed17@gmail.com
             </a>
 
             <a
