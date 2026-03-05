@@ -10,11 +10,7 @@ function App() {
           Mohammad Zaid Sayeed
         </h1>
         <div className="space-x-6 text-sm">
-           <img 
-            src="/zaid.png" 
-            alt="Zaid Sayeed" 
-            className="w-28 h-28 rounded-full border-4 border-[#00d2ff] object-cover mx-auto" 
-          />
+          
           <a href="#about" className="hover:text-blue-400 transition">About</a>
           <a href="#projects" className="hover:text-blue-400 transition">Projects</a>
           <a href="#contact" className="hover:text-blue-400 transition">Contact</a>
