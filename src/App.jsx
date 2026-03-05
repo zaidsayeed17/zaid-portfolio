@@ -13,6 +13,11 @@ function App() {
           <a href="#about" className="hover:text-blue-400 transition">About</a>
           <a href="#projects" className="hover:text-blue-400 transition">Projects</a>
           <a href="#contact" className="hover:text-blue-400 transition">Contact</a>
+          <img 
+            src="/zaid.png" 
+            alt="Zaid Sayeed" 
+            className="w-48 h-48 rounded-full border-4 border-[#00d2ff] object-cover mx-auto" 
+          />
         </div>
       </nav>
 
@@ -21,11 +26,7 @@ function App() {
 
       {/* Hero Section */}
       <section className="relative flex flex-col items-center justify-center text-center h-[85vh] px-6">
-        <img 
-          src="/zaid.png" 
-          alt="Zaid Sayeed" 
-          className="w-48 h-48 rounded-full border-4 border-[#00d2ff] object-cover mx-auto" 
-        />
+      
         <h2 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
           <span className="text-blue-500 drop-shadow-[0_0_15px_#3b82f6]">
             <Typewriter
