@@ -7,7 +7,7 @@ function App() {
       {/* Navbar */}
       <nav className="flex justify-between items-center px-8 py-6 backdrop-blur-md bg-white/5 sticky top-0">
         <h1 className="text-xl font-bold tracking-wide">
-          Mohammad Zaid Sayeeds
+          Mohammad Zaid Sayeed
         </h1>
         <div className="space-x-6 text-sm">
           <a href="#about" className="hover:text-blue-400 transition">About</a>
@@ -58,6 +58,12 @@ function App() {
             className="px-6 py-3 border border-gray-600 hover:border-blue-400 rounded-xl transition"
           >
             Contact Me
+          </a>
+          <a
+            href="#Skill"
+            className="px-6 py-3 border border-gray-600 hover:border-blue-400 rounded-xl transition"
+          >
+            Skills
           </a>
         </div>
 
