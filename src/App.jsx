@@ -13,7 +13,7 @@ function App() {
            <img 
             src="/zaid.png" 
             alt="Zaid Sayeed" 
-            className="w-48 h-48 rounded-full border-4 border-[#00d2ff] object-cover mx-auto" 
+            className="w-28 h-28 rounded-full border-4 border-[#00d2ff] object-cover mx-auto" 
           />
           <a href="#about" className="hover:text-blue-400 transition">About</a>
           <a href="#projects" className="hover:text-blue-400 transition">Projects</a>
